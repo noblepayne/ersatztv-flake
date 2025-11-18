@@ -1,5 +1,7 @@
 # ersatztv-flake
 
+Note, there is now an upstream module: [ersatztv: init at 25.8.0; nixos/ersatztv init module](https://github.com/NixOS/nixpkgs/pull/348655).
+
 [![Nix](https://img.shields.io/badge/built_with-Nix-5277C3?logo=nixos&logoColor=white)](https://nixos.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![ErsatzTV](https://img.shields.io/badge/upstream-ErsatzTV-orange)](https://ersatztv.org)
